@@ -1,0 +1,26 @@
+{
+  "name": "setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2dearsue/setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2dearsue/setup/issues"
+  },
+  "homepage": "https://github.com/2dearsue/setup#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
